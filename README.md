@@ -57,6 +57,9 @@
 - Изучаем Python Том 1. Марк Лутц ✅;
 - Изучаем Python Том 2. Марк Лутц ✅.
 
+#### Django
+- Django for Beginners: Build websites with Python and Django 👔.
+
 #### SQL
 - Изучаем SQL. Алан Бьюли ✅.
 
